@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\test interface\test interface 1\test interface 1\obj\Debug\test interface 1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\test interface\test interface 1\test interface 1\obj\Debug\test interface 1.csproj.CoreCompileInputs.cache
